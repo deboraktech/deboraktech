@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Olá, eu sou a Debora!
+# 👩🏻‍💻 Debora Kaessa
 **Acadêmica de Ciência da Computação**
 
 Sou estudante de Tecnologia da Informação em constante aprendizado. Possuo conhecimentos sólidos em marketing, publicidade, edição, manutenção de computadores e criação de sites. Meu objetivo é trilhar uma carreira de sucesso como desenvolvedora full-stack, aprimorando minhas habilidades técnicas e explorando novas tecnologias.
@@ -11,12 +11,6 @@ Sou estudante de Tecnologia da Informação em constante aprendizado. Possuo con
             src="https://img.shields.io/badge/Instagram-181%20seguidores-E05D44?logo=instagram&logoColor=white&style=for-the-badge&labelColor=CE4630"
         /> 
     </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="Inscritos" 
-            title="Inscreva-se no meu canal!" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600&label=Inscritos"
-        />
     </a> 
     <a href="https://www.linkedin.com/in/debora-kaessa-162685320">
         <img 
@@ -104,19 +98,7 @@ Sou estudante de Tecnologia da Informação em constante aprendizado. Possuo con
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=deboraktech&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboraktech&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+<a href="https://git.io/streak-stats">
+<img src="https://streak-stats.demolab.com?user=deboraktech&theme=shades-of-purple&hide_border=verdadeiro&border_radius=5.4&locale=pt_BR&short_numbers=verdadeiro&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&hide_total_contributions=true" alt="GitHub Streak" /> 
+</a>
 </p>
