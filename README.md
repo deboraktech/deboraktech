@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Debora Kaessa
+# 👩🏻‍💻 Olá, eu sou a Debora!
 **Acadêmica de Ciência da Computação**
 
 Sou estudante de Tecnologia da Informação em constante aprendizado. Possuo conhecimentos sólidos em marketing, publicidade, edição, manutenção de computadores e criação de sites. Meu objetivo é trilhar uma carreira de sucesso como desenvolvedora full-stack, aprimorando minhas habilidades técnicas e explorando novas tecnologias.
