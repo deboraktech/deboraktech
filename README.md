@@ -1,104 +1,56 @@
-# 👩🏻‍💻 Debora Kaessa
-**Acadêmica de Ciência da Computação**
+<br clear="both">
 
-Sou estudante de Tecnologia da Informação em constante aprendizado. Possuo conhecimentos sólidos em marketing, publicidade, edição, manutenção de computadores e criação de sites. Meu objetivo é trilhar uma carreira de sucesso como desenvolvedora full-stack, aprimorando minhas habilidades técnicas e explorando novas tecnologias.
+<h1 align="left">👩🏻‍💻 Debora Kaessa</h1>
 
-<p align="left">
-    <a href="https://www.instagram.com/deboradev_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">
-        <img 
-            alt="Instagram" 
-            title="Me siga no instagram!" 
-            src="https://img.shields.io/badge/Instagram-181%20seguidores-E05D44?logo=instagram&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        /> 
-    </a>
-    </a> 
-    <a href="https://www.linkedin.com/in/debora-kaessa-162685320">
-        <img 
-            alt="LinkedIn" 
-            title="Meu LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/github/stars/deboraktech?color=55960c&style=for-the-badge&labelColor=488207&logo=linkedin&label=LinkedIn"
-        />
-    </a>
-    <a href="https://github.com/deboraktech">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/deboraktech?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+###
 
----
+<h4 align="left">Acadêmica de Ciência da Computação</h4>
 
-### 🤖 Linguagens e Tecnologias
+###
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+<p align="left">Sou estudante de Tecnologia da Informação em constante aprendizado. Possuo conhecimentos sólidos em marketing, publicidade, edição, manutenção de computadores e criação de sites. Meu objetivo é trilhar uma carreira de sucesso como desenvolvedora full-stack, aprimorando minhas habilidades técnicas e explorando novas tecnologias.</p>
 
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
- 
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
+###
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+<div align="right">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+</div>
 
-<br/>
-<br/>
+###
 
-### 📊 Estatísticas
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css logo"  />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" alt="cplusplus logo"  />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" height="40" alt="c logo"  />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
+</div>
 
-<p>
-<a href="https://git.io/streak-stats">
-<img src="https://streak-stats.demolab.com?user=deboraktech&theme=shades-of-purple&hide_border=verdadeiro&border_radius=5.4&locale=pt_BR&short_numbers=verdadeiro&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&hide_total_contributions=true" alt="GitHub Streak" /> 
-</a>
-</p>
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=99&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deboraktech/deboraktech/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deboraktech/deboraktech/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/deboraktech/deboraktech/output/pacman-contribution-graph.svg">
+</picture>
+
+###
